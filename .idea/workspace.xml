@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bfaecf2-a1b4-41a0-a118-e8f51fb954ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+    <list default="true" id="0bfaecf2-a1b4-41a0-a118-e8f51fb954ab" name="Default Changelist" comment="tableau">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -48,7 +53,7 @@
       <recent name="C:\Users\Ken\Desktop\10 Academy\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Flask server.Flask (app.py)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/templates/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -84,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Flask server.Flask (app.py)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Flask server.Flask (app.py)" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598006308765</updated>
       <workItem from="1598006387132" duration="4006000" />
-      <workItem from="1598020744656" duration="4050000" />
+      <workItem from="1598020744656" duration="5519000" />
+      <workItem from="1598097095832" duration="1045000" />
     </task>
     <servers />
   </component>
@@ -112,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -127,6 +135,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="725" y="344" key="#com.intellij.fileTypes.FileTypeChooser/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598029494313" />
+    <state x="585" y="135" key="CommitChangelistDialog2" timestamp="1598097917508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="585" y="135" key="CommitChangelistDialog2/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598097917508" />
     <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1598021042617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -135,26 +147,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="294" y="421" width="395" height="245" key="Github.ShareDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598025010876" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1598029641791">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1506" height="223" key="GridCell.Tab.0.bottom" timestamp="1598048127856">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@-1920.9.1536.864" timestamp="1598014122679" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598029641791" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1598029641791">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598031216917" />
+    <state width="1506" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598048127856" />
+    <state width="1506" height="223" key="GridCell.Tab.0.center" timestamp="1598048127855">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@-1920.9.1536.864" timestamp="1598014122679" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598029641791" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1598029641791">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598031216917" />
+    <state width="1506" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598048127855" />
+    <state width="1506" height="223" key="GridCell.Tab.0.left" timestamp="1598048127855">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@-1920.9.1536.864" timestamp="1598014122679" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598029641791" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1598029641791">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598031216917" />
+    <state width="1506" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598048127855" />
+    <state width="1506" height="223" key="GridCell.Tab.0.right" timestamp="1598048127855">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@-1920.9.1536.864" timestamp="1598014122679" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598029641791" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598031216917" />
+    <state width="1506" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598048127855" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1598020712256">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -191,16 +207,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="700" y="332" key="git4idea.merge.GitPullDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598021625308" />
-    <state x="754" y="435" key="git4idea.ui.GitResetDialog" timestamp="1598030002980">
+    <state x="754" y="435" key="git4idea.ui.GitResetDialog" timestamp="1598097653683">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="754" y="435" key="git4idea.ui.GitResetDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598030002980" />
+    <state x="754" y="435" key="git4idea.ui.GitResetDialog/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598097653683" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598020674007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1598020674007" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1598020777239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/untitled$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1598031216903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
